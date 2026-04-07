@@ -71,8 +71,10 @@
 ---
 
 ## 👨‍💻 Author
+- **Nandeesh N K**   **GitHub:** [@nandeesh2799](https://github.com/nandeesh2799).
+- **ThanuShree K R**  **GitHub:** [@ThanuShree09-2005](https://github.com/ThanuShree09-2005).
+- **VeenaShree K R**  **GitHub:** [@veena248](https://github.com/veena248)
 
-**Nandeesh N K**   **GitHub:** [@nandeesh2799](https://github.com/nandeesh2799)
 
 ---
 
